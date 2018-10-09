@@ -1,2 +1,2 @@
-# MBF.py
+# MBF
 Dawai99/multi-bruteforce-facebook
